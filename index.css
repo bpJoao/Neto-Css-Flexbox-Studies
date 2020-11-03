@@ -1,0 +1,36 @@
+html{
+    background-color:#1C2541;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #EDF67D;
+    padding: 0.3vw;
+}
+
+.square{
+    height: 200px;
+    width: 200px;
+    background-color: #D64933;
+    margin: 1vw;
+}
+
+.flex-container-reverse{
+    flex-direction:row-reverse;
+}
+
+.flex-container-wrap{
+    flex-wrap: wrap;
+    max-width: 30vw;
+}
+
+.flex-justify-content{
+    justify-content: center;
+}
+
+.flex-align-content{
+    align-content:center;
+}
