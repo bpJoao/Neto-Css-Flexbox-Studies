@@ -1,7 +1,5 @@
 # Css Flexbox
 
----
-
 ## Estudos de Css Flexbox do Neto.
 
 *Eu precisava consolidar alguns conceitos em desenvolvimento web. Então criei uma lista de estudos, na qual deveria me basear para produzir algo e sanar minhas dúvidas. Esse era o primeiro item da minha lista: Css Flexbox.**
